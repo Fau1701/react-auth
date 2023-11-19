@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-auth/static/css/main.13fb7873.css",
+    "main.js": "/react-auth/static/js/main.860c9f18.js",
+    "index.html": "/react-auth/index.html",
+    "main.13fb7873.css.map": "/react-auth/static/css/main.13fb7873.css.map",
+    "main.860c9f18.js.map": "/react-auth/static/js/main.860c9f18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13fb7873.css",
+    "static/js/main.860c9f18.js"
+  ]
+}
